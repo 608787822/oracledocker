@@ -36,8 +36,7 @@
 # Pull base image
 # ---------------
 # FROM oracle/serverjre:8 
-# FROM docker.io/dgageot/java8
-  FROM  oracle/jdk:8
+  FROM docker.io/dgageot/java8
 
 # Maintainer
 # ----------
