@@ -1,7 +1,7 @@
-function doMultiply(var1, var2) {
+zfunction doMultiply(var1, var2) {
     return var1 + " X " + var2 + " = " + var1 * var2; 
 }
-test
+test123
 function doAdd(var1, var2) {
     return var1 + " + " + var2 + " = " + (parseInt(var1, 10) + parseInt(var2, 10));
 }
